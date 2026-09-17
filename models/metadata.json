@@ -1,0 +1,41 @@
+{
+    "model_type": "DecisionTreeClassifier",
+    "hyperparameters": {
+        "criterion": "gini",
+        "max_depth": 4,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1
+    },
+    "feature_names": [
+        "hair",
+        "feathers",
+        "eggs",
+        "milk",
+        "airborne",
+        "aquatic",
+        "predator",
+        "toothed",
+        "backbone",
+        "breathes",
+        "venomous",
+        "fins",
+        "legs",
+        "tail",
+        "domestic",
+        "catsize"
+    ],
+    "classes": [
+        "Amphibian",
+        "Bird",
+        "Fish",
+        "Mammal",
+        "Reptile"
+    ],
+    "tree_depth": 4,
+    "leaf_count": 5,
+    "train_accuracy": 1.0,
+    "val_accuracy": 0.9230769230769231,
+    "val_macro_f1": 0.76,
+    "baseline_val_accuracy": 0.46153846153846156,
+    "random_forest_val_accuracy": 0.9230769230769231
+}

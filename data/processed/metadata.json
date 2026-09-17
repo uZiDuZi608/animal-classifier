@@ -1,0 +1,65 @@
+{
+    "feature_columns": [
+        "hair",
+        "feathers",
+        "eggs",
+        "milk",
+        "airborne",
+        "aquatic",
+        "predator",
+        "toothed",
+        "backbone",
+        "breathes",
+        "venomous",
+        "fins",
+        "legs",
+        "tail",
+        "domestic",
+        "catsize"
+    ],
+    "target_column": "class_name",
+    "target_classes": [
+        "Mammal",
+        "Bird",
+        "Reptile",
+        "Fish",
+        "Amphibian"
+    ],
+    "random_state": 42,
+    "total_samples": 83,
+    "train_samples": 57,
+    "val_samples": 13,
+    "test_samples": 13,
+    "class_breakdown": {
+        "Mammal": {
+            "train": 29,
+            "val": 6,
+            "test": 6,
+            "total": 41
+        },
+        "Bird": {
+            "train": 14,
+            "val": 3,
+            "test": 3,
+            "total": 20
+        },
+        "Fish": {
+            "train": 9,
+            "val": 2,
+            "test": 2,
+            "total": 13
+        },
+        "Reptile": {
+            "train": 3,
+            "val": 1,
+            "test": 1,
+            "total": 5
+        },
+        "Amphibian": {
+            "train": 2,
+            "val": 1,
+            "test": 1,
+            "total": 4
+        }
+    }
+}

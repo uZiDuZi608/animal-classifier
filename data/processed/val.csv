@@ -1,0 +1,14 @@
+animal_name,hair,feathers,eggs,milk,airborne,aquatic,predator,toothed,backbone,breathes,venomous,fins,legs,tail,domestic,catsize,class_type,class_name
+boar,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1,Mammal
+girl,1,0,0,1,0,0,1,1,1,1,0,0,2,0,1,1,1,Mammal
+frog,0,0,1,0,0,1,1,1,1,1,0,0,4,0,0,0,5,Amphibian
+sealion,1,0,0,1,0,1,1,1,1,1,0,1,2,1,0,1,1,Mammal
+haddock,0,0,1,0,0,1,0,1,1,0,0,1,0,1,0,0,4,Fish
+sparrow,0,1,1,0,1,0,0,0,1,1,0,0,2,1,0,0,2,Bird
+vulture,0,1,1,0,1,0,1,0,1,1,0,0,2,1,0,1,2,Bird
+seasnake,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,3,Reptile
+piranha,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0,4,Fish
+oryx,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,1,Mammal
+opossum,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,0,1,Mammal
+wren,0,1,1,0,1,0,0,0,1,1,0,0,2,1,0,0,2,Bird
+wallaby,1,0,0,1,0,0,0,1,1,1,0,0,2,1,0,1,1,Mammal

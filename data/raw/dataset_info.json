@@ -1,0 +1,13 @@
+{
+    "dataset_name": "Zoo Database",
+    "creator": "Richard S. Forsyth",
+    "date_donated": "1990-05-15",
+    "source_url_data": "https://archive.ics.uci.edu/ml/machine-learning-databases/zoo/zoo.data",
+    "source_url_names": "https://archive.ics.uci.edu/ml/machine-learning-databases/zoo/zoo.names",
+    "repository": "UCI Machine Learning Repository",
+    "citation": "Forsyth, R. (1990). Zoo. UCI Machine Learning Repository. https://doi.org/10.24432/C5659V",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "downloaded_at": "2026-09-17T19:27:07.437575",
+    "sha256_zoo_data": "cddc71c26ab9bc82795b8f4ff114cade41885d92720c6af29ffb69bcf73f0315",
+    "sha256_zoo_names": "db3dd334beb643c9e14b75603360ea5edcac90a6ac19302e1896039f0c20d428"
+}

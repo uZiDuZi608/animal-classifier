@@ -1,0 +1,41 @@
+{
+    "raw_rows": 101,
+    "raw_cols": 19,
+    "target_class_rows": 83,
+    "target_classes": [
+        "Mammal",
+        "Bird",
+        "Reptile",
+        "Fish",
+        "Amphibian"
+    ],
+    "class_counts": {
+        "Mammal": 41,
+        "Bird": 20,
+        "Reptile": 5,
+        "Fish": 13,
+        "Amphibian": 4
+    },
+    "duplicate_rows": 0,
+    "duplicate_animal_names": 2,
+    "duplicate_feature_vectors": 61,
+    "label_conflicts": 0,
+    "feature_names": [
+        "hair",
+        "feathers",
+        "eggs",
+        "milk",
+        "airborne",
+        "aquatic",
+        "predator",
+        "toothed",
+        "backbone",
+        "breathes",
+        "venomous",
+        "fins",
+        "legs",
+        "tail",
+        "domestic",
+        "catsize"
+    ]
+}

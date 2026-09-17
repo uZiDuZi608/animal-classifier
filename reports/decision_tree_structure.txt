@@ -1,0 +1,13 @@
+|--- milk <= 0.50
+|   |--- toothed <= 0.50
+|   |   |--- class: Bird
+|   |--- toothed >  0.50
+|   |   |--- breathes <= 0.50
+|   |   |   |--- class: Fish
+|   |   |--- breathes >  0.50
+|   |   |   |--- tail <= 0.50
+|   |   |   |   |--- class: Amphibian
+|   |   |   |--- tail >  0.50
+|   |   |   |   |--- class: Reptile
+|--- milk >  0.50
+|   |--- class: Mammal
